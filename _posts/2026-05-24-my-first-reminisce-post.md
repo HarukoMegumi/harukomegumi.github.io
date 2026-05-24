@@ -1,17 +1,10 @@
-\---
-
+---
 layout: post
-
-title: "My First Reminisce Pos"
-
-date: 2026-05-24
-
+title:  "My First Reminisce Post"
+date:   2026-05-24 15:39:07 +0600
 categories: anime reminisce
-
-permalink: /anime/reminisce/my-first-reminisce-post/
-
-\---
-
+suburl: my-first-reminisce-post/
+---
 
 
 This is my first post in the Anime Reminisce section.
