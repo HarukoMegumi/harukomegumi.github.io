@@ -30,7 +30,7 @@ twitter_username: jekyllrb
 github_username:  jekyll
 
 # Permalink settings
-permalink: /:categories/:suburl/
+permalink: /:categories/:title/
 
 # Build settings
 theme: minima
