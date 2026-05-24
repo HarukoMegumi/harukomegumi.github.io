@@ -3,7 +3,6 @@ layout: post
 title:  "My First Reminisce Post"
 date:   2026-05-24 15:39:07 +0600
 categories: anime reminisce
-suburl: my-first-reminisce-post/
 ---
 
 
