@@ -22,7 +22,7 @@ I want to write about an anime memory that stayed with me. This section will col
 
 
 
-!\[A scene for my first reminisce post](/anime/reminisce/images/first-post-image.jpg)
+!\[A scene for my first reminisce post](/anime/reminisce/images/cotn.jpg)
 
 
 
