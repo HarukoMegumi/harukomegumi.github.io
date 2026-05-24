@@ -2,7 +2,7 @@
 
 layout: post
 
-title: "My First Reminisce Post"
+title: "My First Reminisce Pos"
 
 date: 2026-05-24
 
