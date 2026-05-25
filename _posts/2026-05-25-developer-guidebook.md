@@ -3,6 +3,7 @@ layout: post
 title:  "Developer Guidebook"
 date:   2026-05-25 
 categories: software
+description: Guidelines for Windows terminal management and operations
 ---
 
 # Terminal Guide
