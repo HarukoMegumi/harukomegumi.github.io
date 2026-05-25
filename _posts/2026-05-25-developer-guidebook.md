@@ -2,7 +2,7 @@
 layout: post
 title:  "Developer Guidebook"
 date:   2026-05-25 
-categories: software-industry
+categories: software
 ---
 
 ## Terminal Guide
