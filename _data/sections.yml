@@ -1,0 +1,12 @@
+- name: Anime
+  slug: anime
+  url: /anime/
+  thumbnail: /assets/anime.svg
+- name: Research works
+  slug: research
+  url: /research-works/
+  thumbnail: /assets/research.svg
+- name: Software industry
+  slug: software
+  url: /software-industry/
+  thumbnail: /assets/software.svg

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 640" role="img" aria-labelledby="title desc">
+  <title id="title">Research works thumbnail</title>
+  <desc id="desc">Layered notes, charts, and connected points on a desk.</desc>
+  <rect width="960" height="640" fill="#f6f8fb"/>
+  <path d="M0 460c138-74 249-99 390-74 169 30 280-38 570-82v336H0Z" fill="#cfe8dd"/>
+  <rect x="130" y="95" width="485" height="360" rx="8" fill="#fff" stroke="#d7dde8" stroke-width="8"/>
+  <rect x="210" y="170" width="300" height="18" rx="9" fill="#2f4858"/>
+  <rect x="210" y="222" width="220" height="16" rx="8" fill="#8ea4b8"/>
+  <rect x="210" y="270" width="330" height="16" rx="8" fill="#8ea4b8"/>
+  <path d="M220 385 315 315l90 38 120-112" fill="none" stroke="#3a86ff" stroke-width="16" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="220" cy="385" r="19" fill="#ffbe0b"/>
+  <circle cx="315" cy="315" r="19" fill="#ffbe0b"/>
+  <circle cx="405" cy="353" r="19" fill="#ffbe0b"/>
+  <circle cx="525" cy="241" r="19" fill="#ffbe0b"/>
+  <rect x="560" y="230" width="270" height="285" rx="8" fill="#243b53"/>
+  <path d="M612 300h160M612 360h130M612 420h180" stroke="#dbeafe" stroke-width="18" stroke-linecap="round"/>
+</svg>
