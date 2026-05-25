@@ -15,8 +15,16 @@ Each time a cmd/powershell/bash terminal is opened, either directly through syst
 **Solution#1**   
 Close the terminal and reopen it, it will initialize a session along with all newly installed tool information   
 
-
-![Active Terminal Session](/assets/Before.png.png) ![Closing and Reopening Terminal](/assets/After.png)
+<!-- Placing two images side by side -->    
+<div style="display: flex; justify-content: space-between;">
+  <div style="flex: 1; margin-right: 10px;">
+    <img src="/assets/Before.png" alt="Before" style="width: 100%;">
+    <p style="text-align: center;">Before reopening terminal</p>
+  </div>
+  <div style="flex: 1; margin-left: 10px;">
+    <img src="/assets/After.png" alt="After" style="width: 100%;">
+    <p style="text-align: center;">After reopening terminal</p>
+  </div>
 
 
 
