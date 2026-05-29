@@ -65,8 +65,9 @@ This will set up the task to run the specified PowerShell script every hour. Mak
 ```
 Set-ExecutionPolicy RemoteSigned -Scope LocalMachine -Force
 ```  
-Running this once ensures that your automated backup task can trigger and execute seamlessly without being blocked by Windows security.  
-9. Write and save the following powershell script to backup the history file in "My PowerShell History Backup.txt":    
+Running this once ensures that your automated backup task can trigger and execute seamlessly without being blocked by Windows security.
+
+Write and save the following powershell script to backup the history file in "My PowerShell History Backup.txt":    
 
 ```
 # Define paths
