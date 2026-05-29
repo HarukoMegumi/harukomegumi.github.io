@@ -24,7 +24,9 @@ Close the terminal and reopen it, it will initialize a session along with all ne
   <div style="flex: 1; margin-left: 10px;">
     <img src="/assets/After.png" alt="After" style="width: 100%;">
     <p style="text-align: center;">After reopening terminal</p>
-  </div>    
+  </div>     
+
+
 
 # Automation  
 
@@ -95,5 +97,5 @@ if (Test-Path $SourceFile) {
 
 ```
 <!--Special format for post date and update date-->
-*Published on: 2026-05-25*
+*Published on: 2026-05-25*   
 *Last updated on: 2026-05-30*
