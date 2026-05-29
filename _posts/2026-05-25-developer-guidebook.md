@@ -60,7 +60,8 @@ This will set up the task to run the specified PowerShell script every hour. Mak
 6. Conditions settings: Uncheck "Start the task only if the computer is on AC power" (so it runs on laptops using battery too).   
 7. Click "OK" to save the task. You may be prompted to enter your user credentials to allow the task to run with the specified privileges. Provide the necessary credentials and click "OK". Usually PC's <USERNAME> is the user name and the password is the same as your MS account password.  
 8. Open powershell and run the following command:
-```Set-ExecutionPolicy RemoteSigned -Scope LocalMachine -Force
+```
+Set-ExecutionPolicy RemoteSigned -Scope LocalMachine -Force
 ```  
 Running this once ensures that your automated backup task can trigger and execute seamlessly without being blocked by Windows security.  
 9. Write and save the following powershell script to backup the history file in "My PowerShell History Backup.txt":  
